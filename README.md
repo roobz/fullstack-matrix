@@ -1,0 +1,1 @@
+Training modules created in-house using CLause to help learn fullstack engineering for beginners, starting from the basics of Javascript to AWS Lambda services. This was initially created to help me get started as a web/software engineer, maybe it can help others in future too who knows.
