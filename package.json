@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-matrix",
+  "version": "1.0.0",
+  "description": "Training modules created in-house using CLaude to help learn fullstack engineering for beginners, starting from the basics of Javascript to AWS Lambda functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roobz/fullstack-matrix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/roobz/fullstack-matrix/issues"
+  },
+  "homepage": "https://github.com/roobz/fullstack-matrix#readme"
+}
