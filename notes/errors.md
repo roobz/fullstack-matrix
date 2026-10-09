@@ -1,0 +1,1 @@
+when reading files make sure the correct ``readFile`` is imported from node. Importing from ``node:fs`` uses the callback version which expectes 3 arguments, importing ``node:fs/promises`` uses the promise version which expects 2 arguments: readFile(path, encoding, callback) vs readFile(path, encoding)
